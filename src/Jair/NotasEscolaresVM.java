@@ -42,6 +42,7 @@ public class NotasEscolaresVM {
             System.out.println("o aluno " + alunos[i][0] + " teve a média de " + notas[i][5] + " frequencia: " + notas[i][4] + " e foi "+ alunos[i][1] + ".");
         }
         System.out.println("sistema encerrado");
+        Sistem.aut.print("Alterado no VS online")
 
         ler.close();
         }
